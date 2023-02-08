@@ -20,5 +20,6 @@ generally it is built on top of shell [ shell is a command line interpreter whic
 
 > basic commands
 
-
+root directory - "/"
+home directory - "~" - that is home directory is /users/apple in my system.
 
