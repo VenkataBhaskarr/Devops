@@ -23,3 +23,11 @@ generally it is built on top of shell [ shell is a command line interpreter whic
 root directory - "/"
 home directory - "~" - that is home directory is /users/apple in my system.
 
+## Standard streams in Linux (streams in general mean to transfer the data)
+
+There are three standard streams in linux
+
+1. standard input. stdin
+2. standard output.  stdout
+3. standard error. stderr
+
