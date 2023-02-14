@@ -27,7 +27,14 @@ home directory - "~" - that is home directory is /users/apple in my system.
 
 There are three standard streams in linux
 
-1. standard input. stdin
-2. standard output.  stdout
-3. standard error. stderr
+1. standard input. stdin. - 0
+2. standard output.  stdout (can be of terminal, file or a pipe formats) - 1
+3. standard error. stderr - 2
+
+## some commands 
+
+1. ls
+2. ls > output.txt (the '>' symbol is used to create/transfers ouptut from one format to another.)
+3. ls >> output.txt (the '>>' symbol modifies the existing file)
+
 
