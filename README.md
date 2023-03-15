@@ -36,5 +36,28 @@ There are three standard streams in linux
 1. ls
 2. ls > output.txt (the '>' symbol is used to create/transfers ouptut from one format to another.)
 3. ls >> output.txt (the '>>' symbol modifies the existing file)
+... more to be added
 
+
+## Linux system administration
+
+> Users
+
+there are multiple users of a system and for them there are multiple permissions that we can assign individually to the users or make use of groups 
+for grouping and giving the permissions to the users
+
+Apart from the regukar human users in linux or ingeneral in any operating system there exists other users also which are the system daemons(the god tier process which starts running from the boot time and ends at the system shutdown stage which are responsible for a correct running of proceess and they can be available to one or more child processes)
+
+``` The Root user ```
+one of the daemons/users is root and it the most powerful user in linux operating system
+
+``` sudo su ```
+
+``` /etc/sudoers ```
+
+``` /etc/passwd ```
+
+``` /etc/shadow ```
+
+``` /etc/group ```
 
