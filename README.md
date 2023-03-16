@@ -2,6 +2,8 @@
 
 ## THE ROADMAP
 
+LINUX -> 
+
 ### Linux
 
 > what happens when we start a computing device?
@@ -142,6 +144,9 @@ to delete the user we should use the command
  
  
   ``` sudo chmod 1755 filename ``` here 1 is the sticky bit here any user can do anything he wants excpet deleting the file
+ 
+ 
+ # Processes In Linux
  
  
  
