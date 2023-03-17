@@ -148,7 +148,14 @@ to delete the user we should use the command
  
  # Processes In Linux
  
+ > PS
+
+generally return the presnt proccess in the current shell in the current time
+
+ > PS AUX 
  
+ generally returns the snapshot of the all process running at the current time
  
- 
- 
+ > TOP
+
+the top command gives the version if ps aux command but with the real time monitoring
