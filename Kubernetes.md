@@ -1,1 +1,1 @@
-## This file is about kubernetes 
+## This file is all about kubernetes 
