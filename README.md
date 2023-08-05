@@ -1,6 +1,24 @@
 # Devops
 
-## THE ROADMAP
+### what is devops ?
+Devops is a culture followed by an organization inorder to mprove their efficiency in delivering the products
+what its like before devops
+
+developer write coe, sys admons creates a server and delploys the code BRE will test and psuh the code to prod, pre prod envs and later delivers 
+to the end users which is time consuming and manual
+
+so in formal devops is used to increase the efficiency od delivering the procusts by managing automation,quality, testing and monitoring.
+
+### what is SDLC ?
+
+planning -> ->desingning -> code -> build -> test -> deploy -> monitor -> ......cycle
+code -> build -> test -> deploy is automated using  by using various pipelines
+
+### what are virtualMachines ?
+
+
+
+# THE ROADMAP
 
 LINUX -> 
 
